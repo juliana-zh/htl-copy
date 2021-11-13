@@ -1,0 +1,9 @@
+@keyframes rotation_figures {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: rotation_figures 20s infinite normal linear;
+}

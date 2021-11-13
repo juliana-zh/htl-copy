@@ -1,0 +1,8 @@
+.description {
+  margin: 100px auto 100px auto;
+  display: flex;
+  justify-content: center;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}
