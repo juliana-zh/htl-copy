@@ -3,6 +3,7 @@
 @import url(./__cell/_margin/table__cell_margin_m.css);
 @import url(./__cell/_size/table__cell_size_l.css);
 @import url(./__cell/_size/table__cell_size_m.css);
+@import url(./__cell/table__cell.css);
 @import url(./__heading/table__heading.css);
 @import url(./__text/table__text.css);
 
